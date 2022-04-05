@@ -17,6 +17,6 @@ Por fim, retiramos dessa coluna de profissão os valores NA associados e todos o
 Com o RStudio na versão no mínimo 4.1.3!!! execute o arquivo "corretores.R". Ele irá baixar os dados, filtrar a informação relevante e mostrar no terminal os resultados obtidos. 
 
 <p align="center">
-  <img src="https://github.com/Marcos14Almeida/IBGE-corretores/blob/main/reultados 2019.png" width="300" title="Screenshot">
+  <img src="https://github.com/Marcos14Almeida/IBGE-corretores/blob/main/resultados%202019.png" width="300" title="Resultados 2019">
   </a>
 </p>
