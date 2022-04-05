@@ -16,7 +16,11 @@ Por fim, retiramos dessa coluna de profissão os valores NA associados e todos o
 
 Com o RStudio na versão no mínimo 4.1.3!!! execute o arquivo "corretores.R". Ele irá baixar os dados, filtrar a informação relevante e mostrar no terminal os resultados obtidos. 
 
+## Resultados obtidos
+
+ Em 2019, a média de idade dos corretores de seguro foi de 42 anos. O resultado pode visualizado na imagem a seguir:
+
 <p align="center">
-  <img src="https://github.com/Marcos14Almeida/IBGE-corretores/blob/main/resultados%202019.png" width="300" title="Resultados 2019">
+  <img src="https://github.com/Marcos14Almeida/IBGE-corretores/blob/main/resultados%202019.png" width="600" title="Resultados 2019">
   </a>
 </p>
