@@ -15,3 +15,8 @@ Por fim, retiramos dessa coluna de profissão os valores NA associados e todos o
 ## Como Executar o projeto
 
 Com o RStudio na versão no mínimo 4.1.3!!! execute o arquivo "corretores.R". Ele irá baixar os dados, filtrar a informação relevante e mostrar no terminal os resultados obtidos. 
+
+<p align="center">
+  <img src="https://github.com/Marcos14Almeida/IBGE-corretores/blob/main/reultados 2019.png" width="300" title="Screenshot">
+  </a>
+</p>
